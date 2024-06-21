@@ -13,9 +13,8 @@ export const Bio = {
   ],
   description:
     "An Electronics graduate and IBR Holder, passionate about web development and cybersecurity. My skills lie in crafting dynamic web apps, implementing security protocols, and staying informed about the evolving cyber threat landscape. I leverage the latest technologies to create impactful solutions that meet both the technological as well as security challenges.",
-  github: "https://hackersinsight.blogspot.com/",
-  resume:
-    "https://drive.google.com/file/d/1BcpS4jWMwWW4Ajr77ua7jfeae15iIljD/view?usp=drive_link",
+  blogger: "https://hackersinsight.blogspot.com/",
+  resume: "https://drive.google.com/file/d/1BcpS4jWMwWW4Ajr77ua7jfeae15iIljD/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/lakshay-dhoundiyal-531b25259",
   hashnode: "https://hashnode.com/@LakshayDhoundiyal",
   github: "https://github.com/LakshayD02",
